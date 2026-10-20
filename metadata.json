@@ -1,0 +1,6 @@
+{
+  "name": "Asad Aweys — Personal Student Dashboard",
+  "description": "Comprehensive, modern personal student dashboard for Asad Aweys studying Public Health. Features academic management, Islamic prayer reminders, Quran reader, AI academic mentor, fitness routines, and bedtime planner.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
